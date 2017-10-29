@@ -1,0 +1,6 @@
+C:\Users\markp\source\repos\test\test\bin\Debug\test.exe.config
+C:\Users\markp\source\repos\test\test\bin\Debug\test.exe
+C:\Users\markp\source\repos\test\test\bin\Debug\test.pdb
+C:\Users\markp\source\repos\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\markp\source\repos\test\test\obj\Debug\test.exe
+C:\Users\markp\source\repos\test\test\obj\Debug\test.pdb
